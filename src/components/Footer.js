@@ -31,16 +31,7 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
-            <li className="social-icons">
-              <a
-                href="https://x.com/Sreehari_dev_?t=_cVSIka4ExpLTX90dPMa_Q&s=09"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
+            
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/sreehari-s-5a2a592b9/"
